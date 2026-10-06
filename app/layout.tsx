@@ -92,6 +92,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${nk8rBody.variable} ${nk8rDisplay.variable} bg-background`}>
       <head>
+        <meta name="yandex-verification" content="81ac74290031719a" />
         <title>{TITLE}</title>
         <meta name="description" content={DESCRIPTION} />
         <meta
