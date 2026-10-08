@@ -1,5 +1,5 @@
 User-agent: *
-Allow: /
+Disallow: /
 
 Host: https://ramenbet21casino.vercel.app
 Sitemap: https://ramenbet21casino.vercel.app/sitemap.xml
